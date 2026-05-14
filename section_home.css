@@ -260,6 +260,12 @@ body {
     }
 }
 
+@media(max-width: 800px) {
+    .ham-menu{
+        width: 70%;
+    }
+}
+
 .overlay-menu {
     position: fixed;
     top: 0;
