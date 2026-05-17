@@ -27,3 +27,10 @@ Projeto adaptado para:
 ## Preview
 
 ![Preview do site](./img-coffeebreak/HomeScreen.png)
+
+## Como Executar o Projeto 
+
+1. Clone o Repositório
+
+Bash
+git clone LINK_DO_REPOSITORIO
