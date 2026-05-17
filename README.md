@@ -26,4 +26,4 @@ Projeto adaptado para:
 
 ## Preview
 
-![Preview do site](.
+![Preview do site](./img-coffeebreak/HomeScreen.png)
