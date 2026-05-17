@@ -224,10 +224,6 @@ body {
     outline: none;
 }
 
-.btn-menu:hover {
-    background: rgba(255, 255, 255, 0.6)
-}
-
 .btn-menu svg {
    margin-top: 5px;
    color: #ffffff;
