@@ -33,4 +33,5 @@ Projeto adaptado para:
 1. Clone o Repositório
 
 Bash
+
 git clone LINK_DO_REPOSITORIO
